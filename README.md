@@ -1,7 +1,7 @@
 # Pacmann Academy - Machine Learning 01 : Fare Amount Prediction
 **Note:**
 - This dataset originally comes from [Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
-- We perform several edit for this mentoring purposes. So, please use the dataset from [here](https://drive.google.com/file/d/1-Fr3OMbI1yKU_jNy-6cgXFJDVzjph3sn/view?usp=sharing).
+
 <br>
 
 **Task Description:**
