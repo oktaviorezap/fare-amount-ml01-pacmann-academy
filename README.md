@@ -1,4 +1,4 @@
-# Machine Learning 01 : Fare Amount Prediction
+# Pacmann Academy - Machine Learning 01 : Fare Amount Prediction
 **Task Description:**
 - We're looking to predict the fare of Uber's transactions.
 - The dataset contains of the following fields
